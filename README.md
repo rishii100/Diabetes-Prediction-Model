@@ -27,7 +27,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 2. Run the `your_script.py` script to train the models and perform evaluations.
 
 ```bash
-python your_script.py
+jupyter notebook diabetes_prediction.ipynb
 ```
 
 3. Make predictions on diabetes risk using the user input function.
